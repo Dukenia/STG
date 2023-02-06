@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Dukenia/STG/issues"
   },
-  "homepage": "https://github.com/Dukenia/STG#readme"
+  "homepage": "https://github.com/Dukenia/STG#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
